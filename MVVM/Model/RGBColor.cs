@@ -10,4 +10,18 @@ namespace mvvm.Model
         public byte B { get; set; }
         #endregion
     }
+    public class Job
+    {
+        public string Name { get; set; }
+    }
+
+    public class Person
+    {
+        public Job Job { get; set; }
+
+        public Person(Job job)
+        {
+            Job = job;
+        }
+    }
 }

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J4sb6iKDDVBFbEGs820NqnknYG6gcs+sChxo6xRADWPygCw3t5FcPpQkh3u1OVeFSrNBo3CZRYNbXsD1Txs24w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\junyoung\\source\\repos\\mvvm\\MVVM\\MVVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\junyoung\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\junyoung\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
